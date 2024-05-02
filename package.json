@@ -1,0 +1,12 @@
+{
+  "name": "com.risenbeast.claw",
+  "version": "1.0.0",
+  "displayName": "RisenBeast Claw",
+  "description": "",
+  "unity": "2022.3.27",
+  "author": {
+    "name": "Victor Fuchadzhy",
+    "email": "pvd1313@gmail.com",
+    "url": ""
+  }
+}
